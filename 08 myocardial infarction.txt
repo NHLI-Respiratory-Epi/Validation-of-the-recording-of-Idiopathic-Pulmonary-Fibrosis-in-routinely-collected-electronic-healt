@@ -1,0 +1,181 @@
+medcodeid,originalreadcode,cleansedreadcode,term,snomedctconceptid,snomedctdescriptionid,jkq
+"2729671000000118","^ESCT1171768","","Acute transmural myocardial infarction","1089471000000109","2729671000000118",1
+"14218681000006110","^ESCT1421868","","PACS - primary angle closure suspect","1128111000000103","4168384012",0
+"12122331000006116","^ESCT1212233","","Acute ST segment elevation myocardial infarction of inferolateral wall","12238111000119106","3646299014",1
+"12122341000006114","^ESCT1212234","","Acute ST segment elevation myocardial infarction of inferoposterior wall","12238151000119107","3646297011",1
+"4354131000006110","^ESCTLE435413","","Left coronary artery occlusion","123641001","192130016",0
+"4354151000006115","^ESCTRI435415","","Right coronary artery occlusion","123642008","192131017",0
+"486121000006110","SK0y-1","SK0y.11","Anterior tibial compartment syndrome","12694001","21799016",0
+"212081000006112","G382","G382.00","Postoperative transmural myocardial infarction other sites","129574000","208365015",0
+"9843961000006118","^ESCTAC984396","","Acute ST segment elevation myocardial infarction of anterolateral wall","15712881000119105","3041141013",1
+"9843981000006111","^ESCTAC984398","","Acute ST segment elevation myocardial infarction of lateral wall","15712921000119103","3041019010",1
+"9843991000006114","^ESCTAC984399","","Acute ST segment elevation myocardial infarction of anteroseptal wall","15712961000119108","3041144017",1
+"9844011000006119","^ESCTAC984401","","Acute ST segment elevation myocardial infarction of posterior wall","15713041000119103","3041268019",1
+"9844051000006118","^ESCTAC984405","","Acute ST segment elevation myocardial infarction due to right coronary artery occlusion","15713121000119105","3082407014",1
+"1576271000006117","EGTON2EGTON433","","Cause of Death- Myocardial Infarction","1576271000006101","1576271000006117",1
+"1576301000006115","EGTON2G41","","Cause of Death- Acute Myocardial Infarction","1576301000006104","1576301000006115",1
+"9868571000006116","^ESCTMU986857","","Mural thrombus of left ventricle following acute myocardial infarction","15960981000119105","3322978018",0
+"967931000006114","G30B","G30B.00","Acute myocardial infarction of posterolateral wall","15990001","27071012",1
+"256460011","323Z","323Z.00","ECG: myocardial infarct NOS","164865005","256452010",1
+"256453017","3231","3231.00","ECG: no myocardial infarction","164866006","256453017",0
+"256454011","3232","3232.00","ECG: old myocardial infarction","164867002","256454011",0
+"14015031000006119","^ESCT1401503","","Myocardial infarction due to demand ischaemia","16837681000119104","3779054018",0
+"4032016","G32-1","G32..11","Healed myocardial infarction","1755008","4032016",0
+"1790421000006113","JHCCO210","","ACSC","1790421000006109","1790421000006113",0
+"1793491000006116","JHCCO517","","FNACS PO","1793491000006100","1793491000006116",0
+"1849601000006118","EMISNQNO74","","No FH: Myocardial infarction","1849601000006102","1849601000006118",0
+"299712015","G306","G306.00","True posterior myocardial infarction","194802003","299712015",1
+"299742017","G312","G312.00","Coronary thrombosis not resulting in myocardial infarction","194821006","299742017",0
+"299745015","G31y0","G31y000","Acute coronary insufficiency","194823009","299745015",1
+"118831000006118","G35X","G35X.00","Subsequent myocardial infarction of unspecified site","194856005","299808017",1
+"299811016","G350","G350.00","Subsequent myocardial infarction of anterior wall","194857001","299811016",1
+"299812011","G351","G351.00","Subsequent myocardial infarction of inferior wall","194858006","299812011",1
+"813961000006116","G360","G360.00","Haemopericardium as current complication following acute myocardial infarction","194862000","299816014",0
+"498031000006112","G361","G361.00","Atrial septal defect as current complication following acute myocardial infarction","194863005","299818010",0
+"158601000006116","G363","G363.00","Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction","194865003","299821012",0
+"158611000006118","G364","G364.00","Rupture of chordae tendinae as current complication following acute myocardial infarction","194866002","299822017",0
+"159001000006119","G365","G365.00","Rupture of papillary muscle as current complication following acute myocardial infarction","194867006","299823010",0
+"100681000006116","G366","G366.00","Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction","194868001","299824016",0
+"37443015","G30-4","G30..14","Heart attack","22298006","37443015",1
+"8011041000006111","^ESCTAC801104","","Acute myocardial infarction due to right coronary artery occlusion","23311000119105","2968252015",1
+"299710011","G304","G304.00","Acute posterior myocardial infarction","233838001","350371016",1
+"5056411000006110","^ESCTOL505641","","Old anterior myocardial infarction","233839009","350372011",0
+"5056421000006119","^ESCTOL505642","","Old inferior myocardial infarction","233840006","350373018",0
+"5056431000006116","^ESCTOL505643","","Old lateral myocardial infarction","233841005","350374012",0
+"5056441000006114","^ESCTOL505644","","Old posterior myocardial infarction","233842003","350375013",0
+"5056461000006113","^ESCTMI505646","","MI - Silent myocardial infarction","233843008","350377017",1
+"67081000006119","G362","G362.00","Ventricular septal defect as current complication following acute myocardial infarction","233846000","350381017",0
+"537751000006115","G30-3","G30..13","Cardiac rupture after acute myocardial infarction","233847009","350383019",0
+"2878041000006119","^ESCTCO287804","","Coronary spasm","23687008","481685017",0
+"397701010","12C5","12C5.00","FH: Myocardial infarction","266897007","397701010",0
+"217381000000117","12C2-2","12C2.12","FH: Myocardial infarction at less than 60","275122004","411054019",0
+"217421000000114","12C3-2","12C3.12","FH: Myocardial infarction at greater than 60","275123009","411055018",0
+"411056017","12C5-1","12C5.11","FH: Coronary thrombosis","275124003","411056017",0
+"5605381000006117","^ESCTAN560538","","Anxiety about having a heart attack","277834005","414552014",0
+"8087551000006113","^ESCTHI808755","","History of acute ST segment elevation myocardial infarction","285721000119104","3307011019",0
+"8087751000006116","^ESCTAC808775","","Acute ST segment elevation myocardial infarction involving left anterior descending coronary artery","285981000119103","2922211015",1
+"447324018","G309","G309.00","Acute Q-wave infarct","304914007","447324018",1
+"451369010","14AH","14AH.00","H/O: Myocardial infarction in last year","308065005","451369010",0
+"212061000006119","G380","G380.00","Postoperative transmural myocardial infarction of anterior wall","311792005","455418016",0
+"212071000006114","G381","G381.00","Postoperative transmural myocardial infarction of inferior wall","311793000","455419012",0
+"455422014","G384","G384.00","Postoperative subendocardial myocardial infarction","311796008","455422014",0
+"6043771000006118","^ESCTNO604377","","Non-Q wave myocardial infarction","314207007","458526013",0
+"616081000006113","889A","889A.00","Diabetes mellitus insulin-glucose infusion in acute myocardial infarction","315287002","459791015",1
+"460138014","12CA","12CA.00","FH myocardial infarction male first degree age known","315619001","460138014",0
+"460139018","12CB","12CB.00","FH myocardial infarction male first degree age unknown","315620007","460139018",0
+"460140016","12CC","12CC.00","FH myocardial infarction female first degree age known","315621006","460140016",0
+"460141017","12CD","12CD.00","FH myocardial infarction female first degree age unknown","315622004","460141017",0
+"3024781000006112","^ESCTPA302478","","Past myocardial infarction diagnosed on ECG AND/OR other special investigation, but currently presenting no symptoms","32574007","54388015",0
+"543291000006110","G36","G36..00","Myocardial infarction with complication","371068009","1209776017",1
+"6546111000006118","^ESCTAC654611","","ACS - Acute coronary syndrome","394659003","2579561010",1
+"6546751000006118","^ESCTFI654675","","First myocardial infarction","394710008","1488431012",1
+"6601121000006118","^ESCTCO660112","","Coronary artery thrombosis","398274000","1777817018",0
+"1738171000006114","14AT","14AT.00","History of myocardial infarction","399211009","2986492018",0
+"1780491019","G30X0","G30X000","Acute ST segment elevation myocardial infarction","401303003","1780491019",1
+"1780501013","G3071","G307100","Acute non-ST segment elevation myocardial infarction","401314000","1780501013",1
+"2160096015","SP076","SP07600","Coronary artery bypass graft occlusion","408546009","2160096015",0
+"7084801000006112","^ESCTMI708480","","Mixed myocardial ischaemia and infarction","428196007","2694710011",1
+"7093091000006111","^ESCTRE709309","","Recent myocardial infarction","428752002","2691951018",0
+"2692615014","ESCTPA8","","Patient facsimile number","429524004","2692615014",0
+"8193681000006118","^ESCTFA819368","","Family history of myocardial infarction in second degree relative less than 50 years","515711000000105","1148461000000114",0
+"8193701000006115","^ESCTFA819370","","Family history of myocardial infarction in first degree relative less than 60 years","515741000000106","1148521000000117",0
+"299709018","G301z","G301z00","Anterior myocardial infarction NOS","54329005","1231324017",1
+"94884017","G30","G30..00","Acute myocardial infarction","57054005","94884017",1
+"299711010","G305","G305.00","Acute lateral myocardial infarction","58612006","1231860015",1
+"3459561000006119","^ESCTAC345956","","Acute myocardial infarction of apical-lateral wall","59063002","98155017",1
+"455651000006114","G3011","G301100","Acute anteroseptal myocardial infarction","62695002","104192010",1
+"3536581000006113","^ESCTCO353658","","Coronary occlusion","63739005","105938017",0
+"3551171000006114","^ESCTAC355117","","Acute myocardial infarction of high lateral wall","64627002","107408016",1
+"457531000006110","G302","G302.00","Acute inferolateral myocardial infarction","65547006","1232697013",1
+"109915012","G310","G310.00","Post-myocardial infarction syndrome","66189004","500341014",0
+"7510331000006117","^ESCTHI751033","","History of non-ST segment elevation myocardial infarction","698593009","2974755014",0
+"455641000006112","G300","G300.00","Acute anterolateral myocardial infarction","70211005","1233238016",1
+"7571581000006113","^ESCTAC757158","","Acute anterior ST segment elevation myocardial infarction","703164000","3007817016",1
+"7571611000006117","^ESCTAC757161","","Acute ST segment elevation myocardial infarction of anterior wall involving right ventricle","703165004","3007986019",1
+"7572221000006117","^ESCTSU757222","","Subsequent ST segment elevation myocardial infarction of inferior wall","703209002","3007816013",1
+"7572301000006119","^ESCTAC757230","","Acute myocardial infarction during procedure","703212004","3007658013",1
+"7572331000006110","^ESCTAC757233","","Acute STEMI (ST elevation myocardial infarction) of inferior wall","703213009","3007397011",1
+"7574041000006111","^ESCTMI757404","","Mitral valve regurgitation due to acute myocardial infarction","703326006","3008312019",1
+"7574481000006111","^ESCTSU757448","","Subsequent non-ST segment elevation myocardial infarction","703360004","3008465013",1
+"7597161000006111","^ESCTIN759716","","Inferior ST segment elevation","705007006","3015132017",1
+"7662871000006115","^ESCTIN766287","","Inducible ischaemia manifest on stress test post myocardial infarction","710031008","3042814015",0
+"1741581000006112","9hM0","9hM0.00","Excepted from myocardial infarction quality indicators - informed dissent","715971000000103","1568531000000115",0
+"1741591000006110","9hM1","9hM1.00","Excepted from myocardial infarction quality indicators - patient unsuitable","715981000000101","1568541000000112",0
+"1741571000006114","9hM","9hM..00","Exception reporting - myocardial infarction quality indicators","717541000000106","1570081000000116",0
+"299714019","G308","G308.00","Acute myocardial infarction of inferior wall","73795002","122557015",1
+"1234005010","G303","G303.00","Acute inferoposterior infarction","76593002","1234005010",1
+"13930031000006112","^ESCT1393003","","Delayed postmyocardial infarction pericarditis","827164008","3874232012",0
+"13935161000006114","^ESCT1393516","","Acute myocardial infarction of right ventricle","836293000","3890822012",1
+"13935211000006117","^ESCT1393521","","Acute myocardial infarction of inferolateral wall with posterior extension","836295007","3890829015",1
+"2173281000000112","14AW","14AW.00","H/O acute coronary syndrome","837091000000100","2173281000000112",0
+"13941091000006115","^ESCT1394109","","Acute ST segment elevation myocardial infarction due to proximal left anterior descending coronary artery occlusion","840309000","3901248018",1
+"13941141000006111","^ESCT1394114","","Acute ST segment elevation myocardial infarction due to mid left anterior descending coronary artery occlusion","840312002","3901259010",1
+"13941231000006112","^ESCT1394123","","Acute STEMI (ST elevation myocardial infarction) due to distal LAD (left anterior descending) coronary artery occlusion","840316004","3902912014",1
+"13945211000006116","^ESCT1394521","","Acute ST segment elevation myocardial infarction due to occlusion of anterior descending branch of left coronary artery","840609007","3902908015",1
+"13947721000006111","^ESCT1394772","","Acute ST segment elevation myocardial infarction due to occlusion of intermediate artery","846683001","3914972012",1
+"13961371000006114","^ESCT1396137","","Acute ST segment elevation myocardial infarction due to occlusion of mid portion of right coronary artery","868220007","3963973012",1
+"13961451000006111","^ESCT1396145","","Acute STEMI (ST elevation myocardial infarction) due to PDA (posterior descending artery) branch of RCA (right coronary artery) occlusion","868225002","3963985016",1
+"13961461000006113","^ESCT1396146","","Acute ST segment elevation myocardial infarction due to occlusion of posterior lateral branch of right coronary artery","868226001","3963987012",1
+"14132941000006118","^ESCT1413294","","Myocardial infarction with non-obstructive coronary artery","879955009","3994016011",1
+"905351000006113","HNG0009","","[RFC] Myocardial infarction (MI)","905351000006109","905351000006113",1
+"12737271000006118","^ESCT1273727","","Primary angle closure suspect","1128111000000103","1856621000000113",0
+"2701851000006110","^ESCTAC270185","","ACS - Anterior tibial compartment syndrome","12694001","473944014",0
+"455423016","G38z","G38z.00","Postoperative myocardial infarction, unspecified","129574000","208365015",0
+"208365015","G38","G38..00","Postoperative myocardial infarction","129574000","208365015",0
+"212091000006110","G383","G383.00","Postoperative transmural myocardial infarction unspec site","129574000","208365015",0
+"256452010","323","323..00","ECG: myocardial infarction","164865005","256452010",1
+"4031011","G32","G32..00","Old myocardial infarction","1755008","4031011",0
+"682481000006118","G3110","G311000","Myocardial infarction aborted","194821006","2619484018",0
+"4775931000006111","^ESCTAB477593","","Aborted myocardial infarction","194821006","2619483012",0
+"2619484018","G3110-1","G311011","MI - Myocardial infarction aborted","194821006","2619484018",0
+"931961000006117","G31y0-99","G31y099","Acute coronary syndrome","194823009","931961000006117",1
+"300882013","Gyu36","Gyu3600","[X]Subsequent myocardial infarction of unspecified site","194856005","299808017",1
+"299813018","G353","G353.00","Subsequent myocardial infarction of other sites","194856005","299808017",1
+"300881018","Gyu35","Gyu3500","[X]Subsequent myocardial infarction of other sites","194856005","299808017",1
+"299808017","G35","G35..00","Subsequent myocardial infarction","194856005","299808017",1
+"2855351000006111","^ESCTMY285535","","Myocardial infarct","22298006","1784873012",1
+"2855341000006114","^ESCTMI285534","","MI - Myocardial infarction","22298006","1784872019",1
+"219521000000119","G30-1","G30..11","Attack - heart","22298006","37443015",1
+"2855301000006112","^ESCTMY285530","","Myocardial infarction","22298006","37436014",1
+"350376014","G30-7","G30..17","Silent myocardial infarction","233843008","350376014",1
+"5056501000006113","^ESCTPO505650","","Post-infarction ventricular septal defect","233846000","350382012",0
+"39773018","G332","G332.00","Coronary artery spasm","23687008","39773018",0
+"339631000006113","ZV173-2","ZV17312","Family history of myocardial infarction","266897007","397700011",0
+"5495521000006113","^ESCTFA549552","","Family history: Myocardial infarction","266897007","2669639012",0
+"217371000000119","12C2-1","12C2.11","FH: Myocardial infarction < 60","275122004","411054019",0
+"5569701000006117","^ESCTFA556970","","Family history: Myocardial infarction at greater than 60","275123009","2669867017",0
+"217411000000115","12C3-1","12C3.11","FH: Myocardial infarction > 60","275123009","411055018",0
+"5935321000006111","^ESCTAC593532","","Acute Q wave myocardial infarction","304914007","447323012",1
+"1488382011","G3115","G311500","Acute coronary syndrome","394659003","1488382011",1
+"6601131000006115","^ESCTCT660113","","CT - Coronary thrombosis","398274000","1786196012",0
+"1786198013","G30-6","G30..16","Thrombosis - coronary","398274000","1786198013",0
+"1786197015","G30-2","G30..12","Coronary thrombosis","398274000","1786197015",0
+"230021000006115","G32-2","G32..12","Personal history of myocardial infarction","399211009","2986492018",0
+"6651221000006117","^ESCTST665122","","STEMI - ST elevation myocardial infarction","401303003","2840840013",1
+"6651391000006114","^ESCTNS665139","","NSTEMI - Non-ST segment elevation MI","401314000","1787486017",1
+"299707016","G301","G301.00","Acute anterior myocardial infarction","54329005","1231324017",1
+"3381601000006117","^ESCTAC338160","","Acute myocardial infarction of anterior wall","54329005","90302019",1
+"362461000006119","Gyu34","Gyu3400","[X]Acute transmural myocardial infarction of unspecif site","57054005","94884017",1
+"884141000006116","G30-98","G30..98","Coronary thrombosis","57054005","884141000006116",0
+"219531000000117","G30-5","G30..15","MI - acute myocardial infarction","57054005","94884017",1
+"884151000006119","G30-99","G30..99","Myocardial Infarction","57054005","884151000006119",1
+"299721019","G30z","G30z.00","Acute myocardial infarction NOS","57054005","94884017",1
+"460681000006116","G30X","G30X.00","Acute transmural myocardial infarction of unspecif site","57054005","94884017",1
+"299720018","G30yz","G30yz00","Other acute myocardial infarction NOS","57054005","94884017",1
+"3427201000006111","^ESCTAM342720","","AMI - Acute myocardial infarction","57054005","1231678011",1
+"299718016","G30y","G30y.00","Other acute myocardial infarction","57054005","94884017",1
+"3452181000006112","^ESCTAC345218","","Acute myocardial infarction of lateral wall","58612006","97399018",1
+"3536601000006115","^ESCTCO353660","","Coronary artery occluded","63739005","1232497015",0
+"3565871000006113","^ESCTAC356587","","Acute myocardial infarction of inferolateral wall","65547006","108912018",1
+"109916013","G310-1","G310.11","Dressler's syndrome","66189004","109916013",0
+"3576371000006117","^ESCTPO357637","","Postmyocardial infarction syndrome","66189004","109915012",0
+"3641641000006116","^ESCTAC364164","","Acute myocardial infarction of anterolateral wall","70211005","116613011",1
+"7571601000006115","^ESCTAC757160","","Acute STEMI (ST elevation myocardial infarction) of anterior wall","703164000","3007542019",1
+"7572341000006117","^ESCTAC757234","","Acute inferior ST segment elevation myocardial infarction","703213009","3007793013",1
+"7572321000006112","^ESCTAC757232","","Acute ST segment elevation myocardial infarction of inferior wall","703213009","3007915011",1
+"7574491000006114","^ESCTSU757449","","Subsequent NSTEMI (non-ST segment elevation myocardial infarction)","703360004","3008532019",1
+"3699921000006110","^ESCTAC369992","","Acute inferior myocardial infarction","73795002","1233665015",1
+"3745741000006117","^ESCTAC374574","","Acute myocardial infarction of inferoposterior wall","76593002","127193015",1
+"13930051000006117","^ESCT1393005","","Dressler's syndrome","827164008","3874231017",0
+"13941161000006110","^ESCT1394116","","Acute STEMI (ST elevation myocardial infarction) due to mid LAD (left anterior descending) coronary artery occlusion","840312002","3902913016",1
+"13941211000006118","^ESCT1394121","","Acute ST segment elevation myocardial infarction due to distal left anterior descending coronary artery occlusion","840316004","3901277017",1
