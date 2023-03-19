@@ -1,0 +1,80 @@
+gold_medcode,aurum_medcode,readcode,readterm
+9913,1488804017,1O1..00,Heart failure confirmed
+111428,2352391000000117,2JZ..00,On optimal heart failure therapy
+7251,784191000006110,33BA.00,Impaired left ventricular function
+46672,833381000006119,388D.00,New York Heart Assoc classification heart failure symptoms
+11284,2159197017,585f.00,Echocardiogram shows left ventricular systolic dysfunction
+106198,2117931000000116,661M500,Heart failure self-management plan agreed
+12366,216184014,662T.00,Congestive heart failure monitoring
+30779,1484918019,662W.00,Heart failure annual review
+13189,2616471011,662g.00,New York Heart Association classification - class II
+19066,2616472016,662h.00,New York Heart Association classification - class III
+51214,2616473014,662i.00,New York Heart Association classification - class IV
+83502,404741000000119,662p.00,Heart failure 6 month review
+95835,2645623019,679X.00,Heart failure education
+60099,308011000000119,67D4.00,Heart failure information given to patient
+24503,451426015,8B29.00,Cardiac failure therapy
+32945,308301000000118,8CL3.00,Heart failure care plan discussed with patient
+103732,1746171000000119,8CMK.00,Has heart failure management plan
+106008,2205951000000117,8CMW800,Heart failure clinical pathway
+105542,1784061000006118,8CeC.00,Preferred place of care for next exacerbation heart failure
+32898,2549208013,8H2S.00,Admit heart failure emergency
+17851,1484917012,8HBE.00,Heart failure follow-up
+26115,2549697018,8HHb.00,Referral to heart failure nurse
+70619,308041000000118,8HHz.00,Referral to heart failure exercise programme
+48897,216246012,8HTL.00,Referral to heart failure clinic
+106680,2256811000000114,8HTL000,Referral to rapid access heart failure clinic
+71235,311561000000117,8Hk0.00,Referred to heart failure education group
+12627,2549243014,9N0k.00,Seen in heart failure clinic
+19002,2548316014,9N2p.00,Seen by community heart failure nurse
+69062,303361000000111,9N6T.00,Referred by heart failure nurse specialist
+18793,226181000000110,9On..00,Left ventricular dysfunction monitoring administration
+60710,2533628012,9On0.00,Left ventricular dysfunction monitoring first letter
+32911,308231000000118,9Or..00,Heart failure monitoring administration
+90193,406801000000118,9Or1.00,Heart failure monitoring telephone invite
+90192,407041000000111,9Or2.00,Heart failure monitoring verbal invite
+72965,407061000000112,9Or3.00,Heart failure monitoring first letter
+72386,407081000000115,9Or4.00,Heart failure monitoring second letter
+89650,407101000000114,9Or5.00,Heart failure monitoring third letter
+72668,728671000006119,G210100,Malignant hypertensive heart disease with CCF
+52127,504901000006118,G211100,Benign hypertensive heart disease with CCF
+62718,741681000006111,G21z100,Hypertensive heart disease NOS with CCF
+21837,741701000006114,G232.00,Hypertensive heart&renal dis wth (congestive) heart failure
+57987,789941000006117,G234.00,Hyperten heart&renal dis+both(congestv)heart and renal fail
+7320,299796018,G343.00,Ischaemic cardiomyopathy
+3204,142397010,G55..00,Cardiomyopathy
+21852,59588016,G554200,Familial cardiomyopathy
+7535,300040013,G554400,Primary dilated cardiomyopathy
+40834,300041012,G554z00,Other primary cardiomyopathy NOS
+4915,138527014,G555.00,Alcoholic cardiomyopathy
+55850,300052018,G558.00,Cardiomyopathy in disease EC
+98020,300057012,G558z00,Cardiomyopathy in diseases EC NOS
+102955,1705371000000116,G55A.00,Tachycardiomyopathy
+104529,2674238014,G55A.11,Tachycardia-induced cardiomyopathy
+42043,395768019,G55y.00,Secondary cardiomyopathy NOS
+9402,34556015,G55y.11,Secondary dilated cardiomyopathy
+22993,300062013,G55z.00,Cardiomyopathy NOS
+2062,139475013,G58..00,Heart failure
+1223,139482012,G58..11,Cardiac failure
+398,70653017,G580.00,Congestive heart failure
+2906,493287011,G580.11,Congestive cardiac failure
+9524,510016018,G580.14,Biventricular failure
+23707,18472010,G580000,Acute congestive heart failure
+32671,147247018,G580100,Chronic congestive heart failure
+27884,300179017,G580200,Decompensated cardiac failure
+11424,300180019,G580300,Compensated cardiac failure
+884,141306010,G581.00,Left ventricular failure
+23481,1495417010,G581.11,Asthma - cardiac
+5255,300190010,G581000,Acute left ventricular failure
+27964,94251011,G582.00,Acute heart failure
+101138,1647701000000118,G583.00,Heart failure with normal ejection fraction
+101137,1661371000000112,G583.11,HFNEF - heart failure with normal ejection fraction
+106897,2227501000000110,G583.12,Heart failure with preserved ejection fraction
+4024,395772015,G58z.00,Heart failure NOS
+17278,223981000000118,G58z.12,Cardiac failure NOS
+8966,216207010,G5yy900,Left ventricular systolic dysfunction
+12550,1489358014,G5yyA00,Left ventricular diastolic dysfunction
+104333,6978012,G5yyC00,Diastolic dysfunction
+107397,2694523019,G5yyD00,Left ventricular cardiac dysfunction
+66306,350484012,SP11111,Heart failure as a complication of care
+26242,833381000006119,ZRad.00,New York Heart Assoc classification heart failure symptoms
