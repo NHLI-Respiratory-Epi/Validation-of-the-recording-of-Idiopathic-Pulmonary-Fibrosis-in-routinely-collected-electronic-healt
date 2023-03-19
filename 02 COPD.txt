@@ -1,0 +1,45 @@
+gold_medcode	aurum_medcode	readcode	readterm
+4084	264537018	663K.00	Airways obstructn irreversible
+9520	1484924013	66YB.00	Chronic obstructive pulmonary disease monitoring
+37371	1484971019	66YD.00	Chronic obstructive pulmonary disease monitoring due
+18621	1488423019	66YL.00	Chronic obstructive pulmonary disease follow-up
+18476	845451000006118	66YL.11	COPD follow-up
+11287	1488424013	66YM.00	Chronic obstructive pulmonary disease annual review
+26018	1780380013	66YS.00	Chronic obstructive pulmonary disease monitoring by nurse
+45998	1780381012	66YT.00	Chronic obstructive pulmonary disease monitoring by doctor
+45770	299001000000116	66Yg.00	Chronic obstructive pulmonary disease disturbs sleep
+45771	299031000000110	66Yh.00	Chronic obstructive pulmonary disease does not disturb sleep
+42313	405121000000111	679V.00	Health education - chronic obstructive pulmonary disease
+105457	2199261000000110	8CMW500	Chronic obstructive pulmonary disease care pathway
+45777	966841000006111	8CR1.00	Chronic obstructive pulmonary disease clini management plan
+104985	1813871000006117	9NgP.00	On chronic obstructive pulmonary disease supprtv cre pathway
+104710	1813881000006119	9NgP.11	On COPD (chr obstruc pulmonary disease) supportv cre pathway
+106637	2219551000000113	9Nk7000	Seen in chronic obstructive pulmonary disease clinic
+18792	967531000006119	9Oi..00	Chronic obstructive pulmonary disease monitoring admin
+28755	189761000000117	9Oi0.00	Chronic obstructive pulmonary disease monitoring 1st letter
+34202	198471000000111	9Oi1.00	Chronic obstructive pulmonary disease monitoring 2nd letter
+34215	199481000000116	9Oi2.00	Chronic obstructive pulmonary disease monitoring 3rd letter
+42258	967571000006116	9Oi3.00	Chronic obstructive pulmonary disease monitoring verb invite
+38074	967581000006118	9Oi4.00	Chronic obstructive pulmonary disease monitor phone invite
+1001	475431013	H3...00	Chronic obstructive pulmonary disease
+998	555471000006114	H3...11	Chronic obstructive airways disease
+14798	285100019	H312100	Emphysematous bronchitis
+44525	301455018	H312z00	Obstructive chronic bronchitis NOS
+794	640491000006111	H32..00	Emphysema
+26306	301460019	H320.00	Chronic bullous emphysema
+60188	27096010	H320200	Giant bullous emphysema
+23492	301468014	H320z00	Chronic bullous emphysema NOS
+46578	9337016	H321.00	Panlobular emphysema
+10980	113497011	H322.00	Centrilobular emphysema
+16410	396110016	H32yz00	Other emphysema NOS
+33450	301477019	H32z.00	Emphysema NOS
+10863	457168017	H36..00	Mild chronic obstructive pulmonary disease
+10802	457169013	H37..00	Moderate chronic obstructive pulmonary disease
+9876	457171013	H38..00	Severe chronic obstructive pulmonary disease
+93568	516801000000112	H39..00	Very severe chronic obstructive pulmonary disease
+104608	216596014	H3A..00	End stage chronic obstructive airways disease
+12166	301539010	H3y..00	Other specified chronic obstructive airways disease
+67040	1222334016	H3y..11	Other specified chronic obstructive pulmonary disease
+5710	301545019	H3z..00	Chronic obstructive airways disease NOS
+37247	1222335015	H3z..11	Chronic obstructive pulmonary disease NOS
+65733	301836011	Hyu3100	[X]Other specified chronic obstructive pulmonary disease
