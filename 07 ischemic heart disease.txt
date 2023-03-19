@@ -1,0 +1,147 @@
+medcode,readcode,description,ihd
+1430,"G33..00","angina pectoris",1
+240,"G3…00","Ischaemic heart disease",1
+241,"G30..00","acute myocardial infarction",1
+1792,"G3…13","IHD - Ischaemic heart disease",1
+1677,"G30..15","MI - acute myocardial infarction",1
+14658,"G30z.00","Acute myocardial infarction NOS",1
+68357,"G31y100","Microinfarction of heart",1
+66388,"G33z000","Status anginosus",1
+19542,"662K000","angina control - good",1
+10562,"G307100","acute non-st segment elevation myocardial infarction",1
+737,"792..11","Coronary artery bypass graft operations",1
+1344,"G340.12","Coronary artery disease",1
+1431,"G311.13","unstable angina",1
+1676,"G3z..00","Ischaemic heart disease NOS",1
+2901,"7928","Transluminal balloon angioplasty of coronary artery",1
+11983,"G311500","acute coronary syndrome",1
+7347,"G311100","Unstable angina",1
+8942,"7929400","Insertion of coronary artery stent",1
+12229,"G30X000","Acute ST segment elevation myocardial infarction",1
+5904,"792..00","Coronary artery operations",1
+28554,"G33zz00","angina pectoris nos",1
+1678,"G308.00","Inferior myocardial infarction NOS",1
+7137,"7920y00","Saphenous vein graft replacement of coronary artery OS",1
+43939,"793G.00","Perc translumin balloon angioplasty stenting coronary artery",1
+4017,"G32..00","Old myocardial infarction",1
+1655,"G340.11","Triple vessel disease of the heart",1
+5413,"G340.00","Coronary atherosclerosis",1
+105184,"792E.00","Percutaneous coronary intervention",1
+1414,"G33z300","angina on effort",1
+25842,"G33z.00","angina pectoris nos",1
+12804,"G33z700","stable angina",1
+3999,"G340000","Single coronary vessel disease",1
+4656,"G311.11","crescendo angina",1
+1204,"G30..14","Heart attack",1
+5674,"ZV45K11","[V]Presence of coronary artery bypass graft - CABG",1
+5744,"7927500","Open angioplasty of coronary artery",1
+732,"7928z00","Transluminal balloon angioplasty of coronary artery NOS",1
+5254,"G340100","Double coronary vessel disease",1
+2491,"G30..12","Coronary thrombosis",1
+3704,"G307.00","acute subendocardial infarction",1
+12734,"SP07600","Coronary artery bypass graft occlusion",1
+36523,"G311.00","preinfarction syndrome",1
+14897,"G301z00","Anterior myocardial infarction NOS",1
+7442,"7920200","Saphenous vein graft replacement of three coronary arteries",1
+18118,"G311400","worsening angina",1
+15373,"662K100","angina control - poor",1
+9276,"G31y000","Acute coronary insufficiency",1
+35674,"14A3.00","H/O: myocardial infarct <60",1
+18249,"7920","Saphenous vein graft replacement of coronary artery",1
+5030,"ZV45K00","[V]Presence of coronary artery bypass graft",1
+20095,"G330.00","angina decubitus",1
+20416,"G3…12","Atherosclerotic heart disease",1
+7320,"G343.00","Ischaemic cardiomyopathy",1
+5387,"G301.00","other specified anterior myocardial infarction",1
+42304,"7929500","Insertion of drug-eluting coronary artery stent",1
+40399,"14A4.00","H/O: myocardial infarct > 60",1
+12139,"G300.00","acute anterolateral infarction",1
+15349,"662Kz00","Angina control NOS",1
+17307,"G311200","angina at rest",1
+11610,"7920300","Saphenous vein graft replacement of four+ coronary arteries",1
+8935,"G302.00","acute inferolateral infarction",1
+18670,"7928000","Percut transluminal balloon angioplasty one coronary artery",1
+7634,"7920100","Saphenous vein graft replacement of two coronary arteries",1
+8312,"7920.11","Saphenous vein graft bypass of coronary artery",1
+36854,"G332.00","coronary artery spasm",1
+23078,"G34y100","Chronic myocardial ischaemia",1
+10603,"792z.00","Coronary artery operations NOS",1
+32450,"G33z400","ischaemic chest pain",1
+17872,"G301100","acute anteroseptal infarction",1
+18889,"G34z000","Asymptomatic coronary heart disease",1
+22828,"7929000","Percutaneous transluminal laser coronary angioplasty",1
+9507,"G307000","acute non-q wave infarction",1
+60067,"793G000","Perc translum ball angio insert 1-2 drug elut stents cor art",1
+12986,"G331.00","prinzmetal's angina",1
+33471,"792Dz00","Other bypass of coronary artery NOS",1
+24783,"G3…11","Arteriosclerotic heart disease",1
+34963,"792D.00","Other bypass of coronary artery",1
+22383,"G3y..00","Other specified ischaemic heart disease",1
+23892,"G304.00","posterior myocardial infarction nos",1
+28138,"G34..00","Other chronic ischaemic heart disease",1
+19655,"G311.14","angina at rest",1
+17133,"G30A.00","mural thrombosis",1
+29421,"G344.00","Silent myocardial ischaemia",1
+15661,"G310.11","Dressler's syndrome",1
+14898,"G305.00","Lateral myocardial infarction NOS",1
+26863,"G33z600","new onset angina",1
+8679,"7920000","Saphenous vein graft replacement of one coronary artery",1
+29643,"G303.00","Acute inferoposterior infarction",1
+17689,"G30..17","silent myocardial infarction",1
+13571,"G30..16","Thrombosis - coronary",1
+13566,"G30..11","Attack - heart",1
+33461,"7924","Revision of bypass for coronary artery",1
+33735,"7928100","Percut translum balloon angioplasty mult coronary arteries",1
+15754,"G34z.00","Other chronic ischaemic heart disease NOS",1
+16408,"G32..11","healed myocardial infarction",1
+18842,"G35..00","subsequent myocardial infarction",1
+21844,"G31y300","Transient myocardial ischaemia",1
+46017,"G30yz00","other acute myocardial infarction nos",1
+9414,"7921","Other autograft replacement of coronary artery",1
+51515,"7920z00","Saphenous vein graft replacement coronary artery NOS",1
+36609,"G342.00","Atherosclerotic cardiovascular disease",1
+34803,"G30y.00","other acute myocardial infarction",1
+18125,"G330000","nocturnal angina",1
+33650,"7929100","percut transluminal coronary thrombolysis with streptokinase",1
+9555,"G33z500","Post infarct angina",1
+85947,"793G200","Perc translum balloon angioplasty insert 1-2 stents cor art",1
+32272,"G38..00","postoperative myocardial infarction",1
+3159,"792Dy00","Other specified other bypass of coronary artery",1
+31571,"792y.00","Other specified operations on coronary artery",1
+61208,"793Gz00","Perc translum balloon angioplasty stenting coronary art NOS",1
+30421,"G30..13","Cardiac rupture following myocardial infarction (MI)",1
+27951,"G31..00","Other acute and subacute ischaemic heart disease",1
+29758,"G30X.00","acute transmural myocardial infarction of unspecif site",1
+41221,"G30y200","Acute septal infarction",1
+10209,"7921200","Autograft replacement of three coronary arteries NEC",1
+32651,"7922.11","Allograft bypass of coronary artery",1
+34328,"G311300","refractory angina",1
+11048,"G331.11","variant angina pectoris",1
+57062,"14AJ.00","H/O: Angina in last year",1
+87849,"793G100","Perc tran ball angio ins 3 or more drug elut stents cor art",1
+24540,"G34y000","Chronic coronary insufficiency",1
+50372,"14AH.00","H/O: Myocardial infarction in last year",1
+40429,"G301000","acute anteroapical infarction",1
+9413,"G31y.00","Other acute and subacute ischaemic heart disease",1
+30330,"G309.00","acute q-wave infarct",1
+23579,"G310.00","Postmyocardial infarction syndrome",1
+39693,"G31y200","Subendocardial ischaemia",1
+28736,"G30y000","acute atrial infarction",1
+27977,"G31yz00","Other acute and subacute ischaemic heart disease NOS",1
+34633,"G34y.00","Other specified chronic ischaemic heart disease",1
+32854,"G30B.00","acute posterolateral myocardial infarction",1
+42462,"7928200","Percut translum balloon angioplasty bypass graft coronary a",1
+45809,"G350.00","Subsequent myocardial infarction of anterior wall",1
+37657,"G362.00","Ventric septal defect/curr comp fol acut myocardal infarctn",1
+38609,"G351.00","subsequent myocardial infarction of inferior wall",1
+44585,"792Bz00","Repair of coronary artery NOS",1
+63467,"G306.00","true posterior myocardial infarction",1
+7696,"G33z200","Syncope anginosa",1
+35713,"G34yz00","Other specified chronic ischaemic heart disease NOS",1
+29553,"G366.00","Thrombosis atrium,auric append&vent/curr comp foll acute MI",1
+18913,"ZV45700","[V]Presence of aortocoronary bypass graft",1
+23708,"G361.00","Atrial septal defect/curr comp folow acut myocardal infarct",1
+36423,"G36..00","Certain current complication follow acute myocardial infarct",1
+41835,"G384.00","postoperative subendocardial myocardial infarction",1
+72562,"G353.00","subsequent myocardial infarction of other sites",1
+59189,"G363.00","Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI",1
