@@ -1,0 +1,26 @@
+medcode	medcodeid	readcode	readcode5B	snomedctconceptid	snomedctdescriptionid	desc
+13243	288808013	B22..00	B22..	430621000	2765453013	Malignant neoplasm of trachea, bronchus and lung
+12870	155361017	B221.00	B221.	372065009	1210643012	Malignant neoplasm of main bronchus
+17391	288813012	B221000	B2210	187857006	288813012	Malignant neoplasm of carina of bronchus
+33444	155287019	B221100	B2211	93827000	155287019	Malignant neoplasm of hilus of lung
+21698	288815017	B221z00	B221z	372065009	1210643012	Malignant neoplasm of main bronchus NOS
+10358	403688010	B222.00	B222.	269464000	403688010	Malignant neoplasm of upper lobe, bronchus or lung
+31700	288819011	B222000	B2220	187861000	288819011	Malignant neoplasm of upper lobe bronchus
+25886	288820017	B222100	B2221	187862007	288820017	Malignant neoplasm of upper lobe of lung
+44169	288821018	B222z00	B222z	269464000	403688010	Malignant neoplasm of upper lobe, bronchus or lung NOS
+31268	288822013	B223.00	B223.	187864008	288822013	Malignant neoplasm of middle lobe, bronchus or lung
+41523	288823015	B223000	B2230	187865009	288823015	Malignant neoplasm of middle lobe bronchus
+39923	288824014	B223100	B2231	187866005	288824014	Malignant neoplasm of middle lobe of lung
+54134	288825010	B223z00	B223z	187864008	288822013	Malignant neoplasm of middle lobe, bronchus or lung NOS
+31188	288826011	B224.00	B224.	187868006	288826011	Malignant neoplasm of lower lobe, bronchus or lung
+18678	288827019	B224000	B2240	187869003	288827019	Malignant neoplasm of lower lobe bronchus
+12582	288828012	B224100	B2241	187870002	288828012	Malignant neoplasm of lower lobe of lung
+42566	288829016	B224z00	B224z	187868006	288826011	Malignant neoplasm of lower lobe, bronchus or lung NOS
+36371	723301000006110	B225.00	B225.	109371002	1219469018	Malignant neoplasm of overlapping lesion of bronchus & lung
+38961	288832018	B22y.00	B22y.	363358000	482516016	Malignant neoplasm of other sites of bronchus or lung
+3903	403689019	B22z.00	B22z.	363358000	482516016	Malignant neoplasm of bronchus or lung NOS
+2587	733371000006119	B22z.11	B22z.	93880001	3288586014	Lung cancer
+4137	156319016	B570.00	B570.	94391008	156319016	Secondary malignant neoplasm of lung
+40595	292105018	Byu2000	Byu20	1090881000000100	2732641000000116	[X]Malignant neoplasm of bronchus or lung, unspecified
+32246	1227559018	ZV10111	ZV101	415077006	2534963014	[V]Personal history of malignant neoplasm of bronchus
+29284	1227560011	ZV10112	ZV101	415082004	2534968017	[V]Personal history of malignant neoplasm of lung
