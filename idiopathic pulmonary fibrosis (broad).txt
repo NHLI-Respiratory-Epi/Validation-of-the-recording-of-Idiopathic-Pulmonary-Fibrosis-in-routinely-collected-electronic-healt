@@ -1,0 +1,26 @@
+medcodeid	term
+909731000006117	[rfc] pulmonary fibrosis
+196654011	cryptogenic fibrosing alveolitis
+5054601000006119	diffuse parenchymal lung disease
+621121000006112	diffuse pulmonary fibrosis
+4782331000006111	dipf - diffuse interstitial pulmonary fibrosis
+4782341000006118	fibrosing alveolitis
+3336391000006117	fibrosis of lung
+815341000006115	hamman - rich syndrome
+885481000006119	idiopath. fibrosing alveolitis
+12757781000006113	idiopathic fibrosing alveolitis
+75302014	idiopathic fibrosing alveolitis
+301709019	idiopathic fibrosing alveolitis nos
+12716191000006115	idiopathic interstitial pneumonia
+1786131000006116	idiopathic pulmonary fibrosis
+5054591000006110	ild - interstitial lung disease
+107470010	interstitial pneumonia
+3551861000006113	interstitial pneumonitis
+254002014	o/e - fibrosis of lung
+254003016	o/e - fibrosis of lung present
+4555561000006111	on examination - fibrosis of lung present
+85960018	pulmonary fibrosis
+885491000006116	pulmonary fibrosis
+4782361000006119	uip - usual interstitial pneumonitis
+7532701000006115	usual interstitial pneumonia
+2475606014	usual interstitial pneumonitis
